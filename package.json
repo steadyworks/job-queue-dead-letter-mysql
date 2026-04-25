@@ -1,0 +1,5 @@
+{
+  "name": "job-queue-dead-letter-mysql",
+  "version": "1.0.0",
+  "private": true
+}
